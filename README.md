@@ -14,7 +14,11 @@ the .html and javascript files and integrated it with UIWebView.
 I create a sample project here for how to use it. and also if you have
 any problem please do contact or throw questions over here.
 
-# Feature planning
+# Future planning
 Well this is my first open soure utility class, and i wish this will help you all
 i will soon upload same code for swift also and add more function like downlad pdf
 into device, Open pdf file from device .. etc
+
+# Video link
+Here is an video link for the project
+https://drive.google.com/file/d/0B4KnvB_2930aVVViLWo5ZlpfcmM/view?usp=sharing
