@@ -41,6 +41,7 @@
     NSURLRequest *request = [NSURLRequest requestWithURL:[NSURL URLWithString:finalPath]];
     [self loadRequest:request];
 }
+
 #pragma mark - Search related function
 /**
  Search stirng in pdf file
